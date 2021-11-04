@@ -16,4 +16,5 @@ there's a very strong relationship between writing and reading scores
 
 finally, the dashboard is responsive and you can try it yourself and tell us the insights you have seen 
 
-![WhatsApp Image 2021-10-29 at 1 32 07 PM](https://user-images.githubusercontent.com/52220006/140429393-e279b86c-7103-4535-b4e3-f71fc13da175.jpeg)
+![dashboard](https://user-images.githubusercontent.com/52220006/140429503-9f6875d1-c274-4d88-9264-d554b27cb06e.jpeg)
+
