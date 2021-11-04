@@ -1,4 +1,4 @@
-#Student-Performance-Analytics-Dashboard
+# Student-Performance-Analytics-Dashboard
 in this repo, we built a dashboard that analyzes the student performance based o some features like :
 parent level of education 
 Student food 
