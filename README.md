@@ -15,7 +15,6 @@ students whose parents have high school  have the lowest average scores
 from the scatter plot we see that :
 there's a very strong relationship between writing and reading scores 
 
-finally, the dashboard is responsive and you can try it yourself and tell us the insights you have seen 
-
+and there are many insights you can see while interacting with the dashboard and display different features
 ![dashboard](https://user-images.githubusercontent.com/52220006/140429503-9f6875d1-c274-4d88-9264-d554b27cb06e.jpeg)
 
